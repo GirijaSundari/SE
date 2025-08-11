@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is the UPDATED MAIN branch version
-=======
-This is the FEATURE branch version
->>>>>>> feature/conflicttest
+This is the MAIN branch version
