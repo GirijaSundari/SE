@@ -1,0 +1,20 @@
+From 357866f42a9f8d3ce9bbdc31f741f00f77747b58 Mon Sep 17 00:00:00 2001
+From: GirijaSundari <malothugirija@gmail.com>
+Date: Mon, 11 Aug 2025 11:21:14 +0530
+Subject: [PATCH] Added newtxt.txt for patch demo
+
+---
+ newtxt.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 newtxt.txt
+
+diff --git a/newtxt.txt b/newtxt.txt
+new file mode 100644
+index 0000000..131e211
+--- /dev/null
++++ b/newtxt.txt
+@@ -0,0 +1 @@
++hello newtxt!
+-- 
+2.49.0.windows.1
+
